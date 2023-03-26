@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "geometry": "cpp",
+        "iostream": "cpp"
+    },
+    "editor.fontFamily": "Fira Code Medium"
+}
